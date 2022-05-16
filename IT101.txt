@@ -1,0 +1,46 @@
+                     IT101 GRADES
+
+ASSIGNMENT NO.   MM       NAME               GRADES
+
+      1          10   VIKAS BIAHNOI             7
+                      VIKRAM KUMAR              6.5
+                      VISHAL KUMAR SAHU         8
+                      VISHAL SINGH              6
+                      VRANDA MAHAJAN            6.8
+                      YOGESH KUMAR              5
+
+      2          10   VIKAS BIAHNOI             3
+                      VIKRAM KUMAR              4
+                      VISHAL KUMAR SAHU         3.5
+                      VISHAL SINGH              5
+                      VRANDA MAHAJAN            3.7
+                      YOGESH KUMAR              5
+
+      3          10   VIKAS BIAHNOI             7
+                      VIKRAM KUMAR              6.5
+                      VISHAL KUMAR SAHU         8
+                      VISHAL SINGH              6
+                      VRANDA MAHAJAN            6.8
+                      YOGESH KUMAR              5
+
+      4          15   VIKAS BIAHNOI             7.9
+                      VIKRAM KUMAR              12.5
+                      VISHAL KUMAR SAHU         10
+                      VISHAL SINGH              11
+                      VRANDA MAHAJAN            6.8
+                      YOGESH KUMAR              9
+
+      5          10   VIKAS BIAHNOI             -
+                      VIKRAM KUMAR              -
+                      VISHAL KUMAR SAHU         -
+                      VISHAL SINGH              -
+                      VRANDA MAHAJAN            -
+                      YOGESH KUMAR              -
+
+      6          10   VIKAS BIAHNOI             -
+                      VIKRAM KUMAR              -
+                      VISHAL KUMAR SAHU         -
+                      VISHAL SINGH              -
+                      VRANDA MAHAJAN            -
+                      YOGESH KUMAR              -
+

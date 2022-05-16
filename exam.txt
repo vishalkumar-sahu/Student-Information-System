@@ -1,0 +1,18 @@
+   
+                EXAM/TEST/QUIZ
+
+SCHEDULE OF MID-END SEM 
+SUBJECT        DATE        TIMMING     MAXIMUM MARKS
+HS101          22-01-2021  1:30-2:30   15
+PH100          22-01-2021  3:30-4:30   15
+EC100          23-01-2021  1:30-2:30   15
+MA101          23-01-2021  3:30-4:30   15
+IT101          24-01-2021  3:30-4:30   15
+  
+SCHEDULE OF END SEM 
+SUBJECT        DATE        TIMMING     MAXIMUM MARKS
+HS101          22-03-2021  1:30-2:30   30
+PH100          22-03-2021  3:30-4:30   30
+EC100          23-03-2021  1:30-2:30   30
+MA101          23-03-2021  3:30-4:30   30
+IT101          24-03-2021  3:30-4:30   30

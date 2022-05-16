@@ -1,0 +1,24 @@
+
+                                                    Indian Institute of Information Technology Vadodara-Gandhinagar Campus
+                                                                 Time table for BTech (Sem I) Autumn 2020-21
+
+
+ Time/Day        Section                                         Lectures                                           Lab Batch                             Tutorial/Lab
+
+                                     8:00-8:55         9:00-9:55         10:15-11:10       11:15-12:10                                    2:30-3:30         3:30-4:30        4:30-5:30
+
+
+Monday           A=A1+A2              IT101             HS101               EC100               -                     A=A1+A2                 -                    HS101 (Lab)
+                 B=B1+B2              EC100               -               PH100 Tut           HS101                   B=B1+B2                          PH160 Lab/EC160 Lab
+
+Tuesday          A=A1+A2              MA101               -                 PH100           PH100 Tut                 A=A1+A2                          EC160 Lab/ PH160Lab
+                 B=B1+B2              PH100               -                 IT101             MA101                   B=B1+B2                               IT161 Lab
+
+Wednesday        A=A1+A2              IT101             HS101               EC100               -                     A=A1+A2                               IT161 Lab
+                 B=B1+B2              EC100               -                 IT101             HS101                   B=B1+B2                  -                    HS101 (Lab)
+
+Thursday         A=A1+A2              PH100               -                 MA101               -                     A=A1+A2              EC100 Tut             -            MA101 (Tut)
+                 B=B1+B2              MA101               -                 PH100               -                     B=B1+B2             MA101 (Tut)            -             EC100 Tut 
+
+Friday           A=A1+A2              EC100              MA101              IT101              PH100  
+                 B=B1+B2              IT101              PH100              EC100              MA101 

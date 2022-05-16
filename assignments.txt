@@ -1,0 +1,86 @@
+                                                 
+                                                   ASSIGNMENTS/EXPERIMENTS
+
+1.EC Exeperiment
+  
+  Experiment No.:- 9
+  
+          Topic:- Objectives of the experiment, Zener voltage regulator circuit and its working, 
+                  Range of source resistor (R_S) for a given load resistor (R_L), Range of load resistor (R_L) for a given source resistor (R_S),
+                  Voltage regulation, A brief and generalized procedure for performing the experiment, 
+                  Simulation results, Observations and Conclusions, Quiz performance.
+  
+  
+  Experiment No.:- 10.
+  
+          Topic:- Objectives of the experiment, Ideal and practical characteristics of Op-Amp, 
+                  Inverting and Non-inverting Op-Amp circuits and their working, Mathematical expressions (Close-loop gain, Input resistance with feedback,
+                  Output resistance with feedback, Bandwidth with feedback, etc.), 
+                  A brief and generalized procedure for performing the experiment, Simulation results, Observations and Conclusion.
+  
+
+  Experiment No.:- 11. 
+   
+          Topic:-Objectives of the experiment, Op-Amp integrator/differentiator circuits and their working, Mathematical expressions for output voltage,
+                 A brief and generalized procedure for performing the experiment, Simulation results, Observations and Conclusions.
+
+  Deadline:- Monday, 8th March 2021 is the HARD deadline of all Experiment 9,10,11 (12pm).
+
+2.EC Assignment 
+  
+  Assignment No.:- 4.
+
+          Topic:-Saturation mode, Active mode, Cut-off mode, Base bias, Emitter bias, Voltage divider bias,
+                 Emitter feedback bias, Collector feedback bias, Collector-Emitter feedback bias,etc.
+
+  Deadline:- Thursday, 11th March 2021 is the HARD deadline(12pm).
+  
+  Assignment No.:- 5.
+
+           Topic:-Inverting, Non-inverting, Feedback, Datasheet, etc.
+
+  Deadline:- Friday, 19th March 2021 is the HARD deadline(12pm).
+
+
+3.PH Laboratory
+
+  Laboratory 6
+
+            Topic:-Determination of Stefan- Boltzmann constant σ .
+  
+  Laboratory 7
+
+            Topic:-Describe the behavior of a wave function in the presence of a detector, and explain how putting a detector over a slit destroys the interference pattern.
+                   Determine how the interference pattern will change if you change the mass, speed, or wavelength.
+
+  Laboratory 8
+
+            Topic:-Recognize that electrons are reflected from a lattice mostly at certain angles due to wave interference. 
+                   Observe the intensity pattern by tuning the velocity,atom separation and atomic radius in the simulation.
+
+  Laboratory 9
+  
+            Topic:-Recognize how the probability of reflection and transmission of a wave are related to the energy of the wave,
+                   the energy of the barrier, and the width of the barrier.
+  
+  Deadline:-Sunday, 14th March 2021 is the Hard deadline of All Laboratory 6,7,8,9 (12pm).
+
+4.HS Final Assesment
+
+   Topic:-Truth, truth.
+           Like a blanket that always leaves your feet cold.
+           You push it, stretch it, but it’ll never be enough.
+           You kick at it, beat it, it’ll never cover any of us.
+           From the moment we enter crying,
+           to the moment we leave dying,
+           it’ll just cover your face,
+           as you wail and cry and scream.
+
+          -Todd Anderson (Dead Poets Society)
+
+           Write your views on National Education Policy, 2020.
+
+   Deadline:-15.03.2021 (8 PM)
+  
+ 
+  

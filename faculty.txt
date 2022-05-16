@@ -1,0 +1,43 @@
+               FACULTY 
+
+
+1. Prof Sarat Kumar Patra, Professor & Director
+        Ph.D. (Electrical Engineering)
+        University of Edinburgh, UK
+        Areas of Interest : Communications, Signal Processing.
+        Contact : skpatra [at] iiitvadodara [dot] ac [dot] in
+
+2. Sunil Dutt
+        PhD (VLSI Design)
+        IIT Guwahati
+        Areas of Interest : Approximate Computing, Computer Arithmetic, Digital Circuits/Systems Design, Computer Architecture, SRAM Design
+        Contact : sunil [dot] dutt [at] iiitvadodara [dot] ac [dot] in
+
+3. Ajay Nath
+        Ph.D. (Physics)
+        IIT Patna
+        Areas of Interest : Cigar-shaped Bose-Einstein condensate, Optical Lattices, Solitons, Many-body physics.
+        Contact : ajay [dot] nath [at] iiitvadodara [dot] ac [dot] in
+
+4. Barnali Chetia
+        Ph.D. (Linguistics)
+        JNU New Delhi
+        Areas of Interest : Applied Linguistics, Sociolinguistics, Discourse Analysis, Gender Studies, Technical Communication.
+        Contact : barnali [at] iiitvadodara [dot] ac [dot] in
+
+5. Swapnil A. Lokhande
+        Ph.D. (Mathematics)
+        IIT Bombay
+        Areas of Interest : Commutative Algebra.
+        Contact : swapnil [at] iiitvadodara [dot] ac [dot] in
+
+
+               VISITING FACULTY
+
+1. Sunil Kumar Sarangi
+        IIT KGP [1977 - 2014]
+        Contact : ssarangi@hijli.iitkgp.ac.in
+
+2. Dr. Bhanu Murthy
+        NIT Rourkela
+        Contact : bhanu_murthy@iiitvadodara.ac.in
